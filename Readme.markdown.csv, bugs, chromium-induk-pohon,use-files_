@@ -1,0 +1,14 @@
+access_logs.csv
+README.md
+https://bugs.chromium.org/p/chromium/issues/list?sort=summary
+gerrit / gitiles / refs/tags/v1.0.0
+menandai	9e5dea22c666aa17c919e23bc5ae771231cd71fa	
+penanda	Sven Selberg <sven.selberg@axis.com>	Sel Feb 08 07:00:41 2022 -0800
+obyek	c40efa4d9f7f7cce849c72ece82a5eb0cd1ffb6f	
+Versi 1.0.0
+melakukan	c40efa4d9f7f7cce849c72ece82a5eb0cd1ffb6f	[ log ] [ tgz ]
+pengarang	Sven Selberg <svense@axis.com>	Jumat 21 Jan 09:10:06 2022 +0100
+pembuat komitmen	Sven Selberg <sven.selberg@axis.com>	Sel Feb 08 14:43:45 2022 +0000
+pohon	c4658907abc4300a94e3612b53e218e0a86a2f15
+induk	958f5bf3dee9c967b3c80159d374e948a534027c [ diff ]
+Bump versi ke 1.0.0
